@@ -1,0 +1,1 @@
+<!-- Start :: <?=str_replace(get_stylesheet_directory(),'theme',dirname(__FILE__)).DS.__FILE__?> -->
